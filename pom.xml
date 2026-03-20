@@ -15,10 +15,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <dependencies>
 <!-- JUnit 5 -->
 <dependency>
-<groupId>org.junit.jupiter</groupId>
-<artifactId>junit-jupiter</artifactId>
-<version>${junit.version}</version>
-<scope>test</scope>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter</artifactId>
+    <version>${junit.version}</version>
+    <scope>test</scope>
 </dependency>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
